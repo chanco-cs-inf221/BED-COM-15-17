@@ -1,0 +1,53 @@
+body{
+	border: 3px solid
+	background-color: grey;
+}
+.image{
+	padding: 1px;
+	border: solid;
+	height: 100%;
+	
+	background-color:rgb(70, 0, 128);
+}
+h5{
+	text-align: center;
+	font-family:arial;
+}
+#imga{
+	text-align: center
+}
+a{
+	color: rgb(204, 7, 7);
+	align-content: center;
+}
+.projects{
+	width: 100%;
+
+	overflow: hidden;
+	background:rgba(12, 5, 9, 0.877);
+	margin: 2px auto;
+	padding: 20px;
+	border: solid;
+}
+.pojects ul{
+	padding: 0px;
+	margin: 0px;
+	border: solid;
+}
+.projects ul li{
+	width: 20%;
+	border: solid;
+	list-style: none;
+	float:left;
+	height: 300px;
+	background-color:white;
+	margin:  40px 43px 0px 50px;
+}
+.work{
+background-color: aquamarine
+
+}
+.body{
+background-color: red;
+
+}
